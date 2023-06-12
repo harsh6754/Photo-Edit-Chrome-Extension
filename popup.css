@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+#upload {
+    display: block;
+    margin: 20px auto;
+}
+
+#image-container {
+    text-align: center;
+}
+
+#image-container img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
